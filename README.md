@@ -3,6 +3,8 @@ The results and code of ***Probabilistic Maps of White Matter Hyperintensity bas
 
 # White Matter Probability Maps
 The constructed white matter probability maps are based on the Chinese Brain Molecular and Functional Mapping (CBMFM) data. The subjects' demographics are as follows:
+![image](https://github.com/Ada-Cai/WMP_CBMFM/demographics.png)
+
 
 
 
