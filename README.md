@@ -7,7 +7,7 @@ The constructed white matter probability maps are based on the Chinese Brain Mol
 ![image](https://github.com/Ada-Cai/WMP_CBMFM/blob/main/Img/demographics.png)
 
 Probability maps in /WPM for each age group.
-![image](https://github.com/Ada-Cai/WMP_CBMFM/blob/main/Img/WMPs.png)
+![image](https://github.com/Ada-Cai/WMP_CBMFM/blob/main/Img/WPMs.png)
 
 # Segmentation model
 The original code comes from [nnU-Net](https://github.com/MIC-DKFZ/nnUNet). The pre-trained model uses the CBMFM data, in /WMH_segModel.
